@@ -1,0 +1,8 @@
+com.mobapp.bublefish.R -> com.mobapp.bublefish.R:
+    10:10:void <init>() -> <init>
+com.mobapp.bublefish.R$attr -> com.mobapp.bublefish.R$attr:
+    11:11:void <init>() -> <init>
+com.mobapp.bublefish.R$string -> com.mobapp.bublefish.R$string:
+    int app_name -> app_name
+    13:13:void <init>() -> <init>
+    14:14:void <clinit>() -> <clinit>

@@ -1,0 +1,196 @@
+_____________________________________________________________________
++ Program class: com/mobapp/bublefish/R
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.mobapp.bublefish.R extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 19):
+  + Class [com/mobapp/bublefish/R]
+  + Class [com/mobapp/bublefish/R$attr]
+  + Class [com/mobapp/bublefish/R$string]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [SourceFile]
+  + Utf8 [attr]
+  + Utf8 [com/mobapp/bublefish/R]
+  + Utf8 [com/mobapp/bublefish/R$attr]
+  + Utf8 [com/mobapp/bublefish/R$string]
+  + Utf8 [java/lang/Object]
+  + Utf8 [string]
+
+Fields (count = 0):
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #5
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 10
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 2)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/mobapp/bublefish/R$string]
+      + Class [com/mobapp/bublefish/R]
+      + Utf8 [string]
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/mobapp/bublefish/R$attr]
+      + Class [com/mobapp/bublefish/R]
+      + Utf8 [attr]
+  + Source file attribute:
+    + Utf8 [SourceFile]
+
+_____________________________________________________________________
++ Program class: com/mobapp/bublefish/R$attr
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.mobapp.bublefish.R$attr extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 16):
+  + Class [com/mobapp/bublefish/R]
+  + Class [com/mobapp/bublefish/R$attr]
+  + Class [java/lang/Object]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + Utf8 [()V]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [SourceFile]
+  + Utf8 [attr]
+  + Utf8 [com/mobapp/bublefish/R]
+  + Utf8 [com/mobapp/bublefish/R$attr]
+  + Utf8 [java/lang/Object]
+
+Fields (count = 0):
+
+Methods (count = 1):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$attr()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #4
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 11
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/mobapp/bublefish/R$attr]
+      + Class [com/mobapp/bublefish/R]
+      + Utf8 [attr]
+  + Source file attribute:
+    + Utf8 [SourceFile]
+
+_____________________________________________________________________
++ Program class: com/mobapp/bublefish/R$string
+  Superclass:    java/lang/Object
+  Major version: 0x33
+  Minor version: 0x0
+    = target 1.7
+  Access flags:  0x31
+    = public final class com.mobapp.bublefish.R$string extends java.lang.Object
+
+Interfaces (count = 0):
+
+Constant Pool (count = 22):
+  + Integer [2130837504]
+  + Class [com/mobapp/bublefish/R]
+  + Class [com/mobapp/bublefish/R$string]
+  + Class [java/lang/Object]
+  + Fieldref [com/mobapp/bublefish/R$string.app_name I]
+  + Methodref [java/lang/Object.<init> ()V]
+  + NameAndType [<init> ()V]
+  + NameAndType [app_name I]
+  + Utf8 [()V]
+  + Utf8 [<clinit>]
+  + Utf8 [<init>]
+  + Utf8 [Code]
+  + Utf8 [I]
+  + Utf8 [InnerClasses]
+  + Utf8 [LineNumberTable]
+  + Utf8 [SourceFile]
+  + Utf8 [app_name]
+  + Utf8 [com/mobapp/bublefish/R]
+  + Utf8 [com/mobapp/bublefish/R$string]
+  + Utf8 [java/lang/Object]
+  + Utf8 [string]
+
+Fields (count = 1):
+  + Field:        app_name I
+    Access flags: 0x9
+      = public static int app_name
+
+Methods (count = 2):
+  - Method:       <init>()V
+    Access flags: 0x1
+      = public R$string()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 5, locals = 1, stack = 1):
+      [0] aload_0 v0
+      [1] invokespecial #6
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 13
+  - Method:       <clinit>()V
+    Access flags: 0x8
+      = static void <clinit>()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 6, locals = 0, stack = 1):
+      [0] ldc #1
+        + Integer [2130837504]
+      [2] putstatic #5
+        + Fieldref [com/mobapp/bublefish/R$string.app_name I]
+      [5] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Line number table attribute (count = 1)
+        [0] -> line 14
+
+Class file attributes (count = 2):
+  + Inner classes attribute (count = 1)
+    - InnerClassesInfo:
+      Access flags:  0x19 = public static final 
+      + Class [com/mobapp/bublefish/R$string]
+      + Class [com/mobapp/bublefish/R]
+      + Utf8 [string]
+  + Source file attribute:
+    + Utf8 [SourceFile]
+
