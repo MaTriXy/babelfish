@@ -57,6 +57,11 @@ public class BabelFish {
         return this;
     }
 
+    public BabelFish setTranslate(ITranslate translate){
+        this.translate = translate;
+        return this;
+    }
+
     public void translate(final TextView textView, final String text){
         String transText = memoryCache.get(text);
 
