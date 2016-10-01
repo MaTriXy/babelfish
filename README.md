@@ -1,8 +1,7 @@
 # babelfish
 Android library for translating from any language to any language.  
 
-Licence:
-
+##Licence:
 Copyright (C) 2016  Leonid Olevsky
 
 This program is free software: you can redistribute it and/or modify
