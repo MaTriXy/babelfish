@@ -1,5 +1,5 @@
 # babelfish
-Android library for translating from any language to any language.  
+Android library for translating from any language to any language. You have the ability to define if to use free api to transfer or payed one.
 
 ##Licence:
 Copyright (C) 2016  Leonid Olevsky
